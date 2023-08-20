@@ -69,3 +69,8 @@
   overflow: hidden;
   text-overflow: ellipsis;
   }
+@media only screen and (max-width: 600px) {
+  .NavBar button{
+    width: 15%;
+  }
+}
